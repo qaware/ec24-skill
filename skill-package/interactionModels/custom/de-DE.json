@@ -1,0 +1,29 @@
+{
+    "interactionModel": {
+      "languageModel": {
+        "intents": [
+          {
+            "name": "AMAZON.CancelIntent",
+            "samples": []
+          },
+          {
+            "name": "AMAZON.HelpIntent",
+            "samples": []
+          },
+          {
+            "name": "AMAZON.StopIntent",
+            "samples": []
+          },
+          {
+            "slots": [],
+            "name": "NextTalkIntent",
+            "samples": [
+              "was ist der nächste talk"
+            ]
+          }
+        ],
+        "types": [],
+        "invocationName": "engineering camp"
+      }
+    }
+  }
